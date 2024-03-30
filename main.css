@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(138, 138, 138);
+}
+
+form {
+    text-align: center;
+    padding: 10% 0;
+}
+
+input,
+button {
+    padding: 10px;
+    margin-left: 8px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+
+ul li a {
+    color: black;
+    margin-top: 8px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+button {
+    background-color: green;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: chartreuse;
+}
